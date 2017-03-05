@@ -7,7 +7,7 @@
         http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
     <mvc:annotation-driven />
-    <context:component-scan base-package="com.antonanko.xenia.racoons.controllers" />
+    <context:component-scan base-package="com.antonenko.xenia.racoons.controllers" />
 
     <bean
         class="org.springframework.web.servlet.view.InternalResourceViewResolver">

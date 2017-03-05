@@ -11,7 +11,7 @@
     <context:annotation-config />
     <tx:annotation-driven />
 
-    <jpa:repositories base-package="com.antonanko.xenia.racoons.repositories" />
+    <jpa:repositories base-package="com.antonenko.xenia.racoons.repositories" />
 
     <bean id="dataSource" class="com.jolbox.bonecp.BoneCPDataSource"
         destroy-method="close">

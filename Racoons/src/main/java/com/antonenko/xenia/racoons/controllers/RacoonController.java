@@ -1,4 +1,4 @@
-package com.antonanko.xenia.racoons.controllers;
+package com.antonenko.xenia.racoons.controllers;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.antonanko.xenia.racoons.entities.Racoon;
-import com.antonanko.xenia.racoons.repositories.RacoonRepository;
+import com.antonenko.xenia.racoons.entities.Racoon;
+import com.antonenko.xenia.racoons.repositories.RacoonRepository;
 
 
 

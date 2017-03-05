@@ -1,4 +1,4 @@
-package com.antonanko.xenia.racoons.entities;
+package com.antonenko.xenia.racoons.entities;
 
 import javax.persistence.Entity;
 
