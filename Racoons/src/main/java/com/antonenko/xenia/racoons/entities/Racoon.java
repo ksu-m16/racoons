@@ -32,8 +32,10 @@ public class Racoon extends BaseEntity {
 	public void setWeight(int weight) {
 		this.weight = weight;
 	}
-	
-	
 
-    
+	@Override
+	public String toString() {
+		return "Racoon [name=" + name + ", weight=" + weight + "]";
+	}
+	
 }
